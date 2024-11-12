@@ -1,13 +1,10 @@
 Back End
 
-Tecnologias Utilizadas
-
 -Docker
 -Node.js
 -Mongoose
 
-Para levantar el proyecto el proyecto
-
+## **Instalation Method**
 
 1. **First** you have to download the git repo using git clone command in your terminal.
 `git clone https://github.com/CarlosMey/docker-compose_node_app-main`
